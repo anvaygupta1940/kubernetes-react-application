@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is kubernetes deployment with React application. This is the version 2 to perform the rolling update.
+          This is kubernetes deployment with React application. This is the version 2 to perform the rolling updatess.
 
         </p>
         <a
